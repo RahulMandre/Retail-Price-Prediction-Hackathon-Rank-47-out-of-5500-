@@ -1,4 +1,6 @@
-# Retail Price Prediction Hackathon (Rank of 55 out of ~5500 participants in the competition)
+### Retail Price Prediction Hackathon 
+
+***Rank of 55 out of ~5500 participants in the competition***
 
 **Overview (taken from Analytics India Magazine which hosted the competition)**<br>
 
